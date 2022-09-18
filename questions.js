@@ -4,7 +4,8 @@ let questions = [
         A. Leviticus
         B. Numbers
         C. Genesis
-        D. Exodus`,
+        D. Exodus,
+        Be sure to use Uppercase`,
       correctAnswer: "C"
     },
     {
